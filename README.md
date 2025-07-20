@@ -42,7 +42,7 @@ Before using this project, ensure the following tools and dependencies are insta
 - Visual Studio 2022 or higher.
 
 ### Optional
-- External audio libraries and toolchains (e.g., **JUCE**, **TurboActivate**, **DSP Filters**) integrated via `CMakeLists.txt`.
+- External audio libraries and toolchains (e.g., **JUCE**, **any license system**, **DSP**) integrated via `CMakeLists.txt`.
 
 
 ## Getting Started
