@@ -18,7 +18,6 @@
 - Automatic stapling after notarization.
 - Cross-platform support for **macOS** and **Windows**.
 - Modular build system powered by **CMake**.
-- TurboActivate Integration for license validation.
   
 ## Prerequisites
 
@@ -32,7 +31,6 @@ Before using or building MultiCI, ensure you have the following tools and depend
   - Deployment target: macOS 10.13 or later
 - Windows Development:
   - Visual Studio 2022
-- TurboActivate library for licensing
 
 ## Getting Started
 
